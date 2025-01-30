@@ -1,0 +1,3 @@
+Blockout poziomu, w którym gracz wciela się w robotnika wykonującego drobne naprawy w kanalizacji. W pewnym momencie wpada w pułapkę – drabina, którą schodził, urywa się, zmuszając go do znalezienia innej drogi ucieczki.
+
+Aby zdobyć potrzebne narzędzia, gracz musi zejść głębiej, przemierzając mroczne tunele pełne niepokojących dźwięków i wyskakujących szczurów. Najpierw trafia do dużego pomieszczenia gospodarczego, gdzie odnajduje klucz, który pozwala mu dostać się do mniejszych tuneli kanalizacyjnych. Ostatecznie dociera do głównej komory kontrolującej przepływ ścieków, gdzie dochodzi do walki. Po jej zakończeniu gracz otwiera pomieszczenie z narzędziami niezbędnymi do wydostania się na powierzchnię.
